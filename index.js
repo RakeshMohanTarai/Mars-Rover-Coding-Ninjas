@@ -10,7 +10,7 @@ $(function() {
       alert("Please select a date.");
       return;
     }
-
+    var apiKey = "aBBTk9o2ZPT8cgerPyNau58JCp5VdfScftAtLuAR";// It doesn't effect the code id you don't give your api key
     var apiUrl = `https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY`;
     displayImages(apiUrl);
   });
