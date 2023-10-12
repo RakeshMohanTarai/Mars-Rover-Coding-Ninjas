@@ -11,8 +11,7 @@ Explore the Red Planet with this Mars Rover API project! Discover stunning Marti
 - Interact with Mars right from your web browser 🪐
 
 🌐 **Access the Project**:
-- GitHub Pages: [Mars Rover API Project](https://rakeshmohantarai.github.io/Mars-Rover-Coding-Ninjas/) 🌍
-- NASA API: [API Access Link](https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?api_key=DEMO_KEY) 🚀
+- Access the app: [Mars Rover API Project](https://rakeshmohantarai.github.io/Mars-Rover-Coding-Ninjas/](https://heartfelt-otter-82ee3e.netlify.app/) 🚀
 
 🔧 **Tech Stack**:
 - Front-end: HTML, CSS, JavaScript 💻
