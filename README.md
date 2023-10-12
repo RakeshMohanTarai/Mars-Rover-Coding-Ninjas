@@ -11,7 +11,7 @@ Explore the Red Planet with this Mars Rover API project! Discover stunning Marti
 - Interact with Mars right from your web browser 🪐
 
 🌐 **Access the Project**:
-- Access the app: [Mars Rover API Project](https://rakeshmohantarai.github.io/Mars-Rover-Coding-Ninjas/](https://heartfelt-otter-82ee3e.netlify.app/) 🚀
+- Access the app: [Mars Rover API Project](https://heartfelt-otter-82ee3e.netlify.app/) 🚀
 
 🔧 **Tech Stack**:
 - Front-end: HTML, CSS, JavaScript 💻
